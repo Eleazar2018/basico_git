@@ -1,0 +1,1 @@
+# basico_git Testando a colocação dos arquivos no repositório do git HUb. Nota: eu coloquei como está descrito no site do GIt Hub. Como foi ensinado pelo professor não funcionou, pois o meu Git não gerou github@github.com 
